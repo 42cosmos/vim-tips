@@ -49,3 +49,4 @@
 ## Referecnes
 - [Outsider's Blog](https://blog.outsider.ne.kr/540)
 - [Vim에서 ESC를 눌렀을 때 영문 상태로 전환하기](http://seorenn.blogspot.com/2011/04/vim-vim-esc.html)
+- [Vim cheatsheet](https://vim.rtorr.com/lang/ko/)
